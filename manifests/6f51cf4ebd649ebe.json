@@ -1,0 +1,16 @@
+{
+  "version": "1.0.1",
+  "updates": [
+    {
+      "id": "u-1.0.1-1782535353",
+      "type": "personal",
+      "version": "1.0.1",
+      "bundle_url": "https://raw.githubusercontent.com/elopav-svg/sensflow-updates/main/bundles/u-1.0.1-1782535353.zip",
+      "sha256": "7ba0ce970dc7276e43016f920e5abc1bed5a8d42926630dff0ff9329d79afa77",
+      "notes": "Тестове оновлення — перевірка каналу",
+      "date": "2026-06-27"
+    }
+  ],
+  "notes": "Тестове оновлення — перевірка каналу",
+  "sig": "0e91a4c7de2d567eeb7e097dd289099a54855e7852f001f7df108f5f52bba728"
+}
