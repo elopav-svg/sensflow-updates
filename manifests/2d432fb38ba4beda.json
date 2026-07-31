@@ -1,6 +1,16 @@
 {
-  "version": "1.0.0",
-  "updates": [],
+  "version": "1.0.1",
+  "updates": [
+    {
+      "id": "u-1.0.1-1785491310",
+      "type": "personal",
+      "version": "1.0.1",
+      "bundle_url": "https://raw.githubusercontent.com/elopav-svg/sensflow-updates/main/bundles/u-1.0.1-1785491310.zip",
+      "sha256": "99deae92ca306be91e8764a3bcaac1141764b1b42d91cd8323fa05c00e3433cd",
+      "notes": "Telegram: один список довірених користувачів. Кнопка «Авторизовані користувачі» в консолі тепер реально пускає до бота-оркестратора (раніше він читав лише .env.local). Відмова незнайомому показує його Telegram ID і кладе заявку в чергу консолі.",
+      "date": "2026-07-31"
+    }
+  ],
   "notes": "Базовий канал оновлень відкрито 31.07.2026. Ви на найновішій збірці.",
-  "sig": "cb9a7ccd07b2a2765a2c842d9312f3b1dce5e368bdabccb457012925830c1859"
+  "sig": "8e293877c612d70888d44140d0b7bb1245dc43011a1e326dc60195a6578fddaf"
 }
