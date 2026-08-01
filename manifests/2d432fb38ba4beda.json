@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "updates": [
     {
       "id": "u-1.0.1-1785491310",
@@ -27,8 +27,17 @@
       "sha256": "21f78da976e21e2ffac9fa3f85ed09e74ec6faab89e9af1b366df2bdbee1f0f3",
       "notes": "Orkestrator vykorystovuye VSI dostupni modeli, vklyuchno z naystarshoyu, schob vydaty rezultat. Zhodna zupynka bilshe ne movchyt.",
       "date": "2026-08-01"
+    },
+    {
+      "id": "u-1.0.4-1785598800",
+      "type": "global",
+      "version": "1.0.4",
+      "bundle_url": "https://raw.githubusercontent.com/elopav-svg/sensflow-updates/main/bundles/u-1.0.4-1785598800.zip",
+      "sha256": "ec3393ec02161233da3c704042baf76a38c2b84a3270c9ee25704554a0626f48",
+      "notes": "Arkhiv torgiv: pidpys vyrobnyka nashe/ne nashe u kozhnomu ryadku + hlybyna dlya starykh tenderiv (peremozhets i suma peremohy).",
+      "date": "2026-08-01"
     }
   ],
   "notes": "Базовий канал оновлень відкрито 31.07.2026. Ви на найновішій збірці.",
-  "sig": "30ff199fdf8c8daa68460131fffb1f7bf1f1742d69024f74097d1e69c83c2ec1"
+  "sig": "2065725791885741c6fc494438101d452123b332cc712259d0ba2fbe2c578a0d"
 }
