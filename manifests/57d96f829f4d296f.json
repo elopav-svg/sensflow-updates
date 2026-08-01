@@ -9,8 +9,17 @@
       "sha256": "35d3f53813e091b22dfdefaf1e903d51846891775fdecb76b75d385aa22db1dd",
       "notes": "Arkhiv torgiv na Prozorro (zvit u xlsx). Vorota vkhodu bilshe ne blokuyut robotu cherez zbiy perevirky.",
       "date": "2026-08-01"
+    },
+    {
+      "id": "u-1.0.2-1785586059",
+      "type": "global",
+      "version": "1.0.2",
+      "bundle_url": "https://raw.githubusercontent.com/elopav-svg/sensflow-updates/main/bundles/u-1.0.2-1785586059.zip",
+      "sha256": "35d3f53813e091b22dfdefaf1e903d51846891775fdecb76b75d385aa22db1dd",
+      "notes": "Arkhiv torgiv na Prozorro (zvit u xlsx). Vorota vkhodu bilshe ne blokuyut robotu cherez zbiy perevirky.",
+      "date": "2026-08-01"
     }
   ],
   "notes": "Arkhiv torgiv na Prozorro (zvit u xlsx). Vorota vkhodu bilshe ne blokuyut robotu cherez zbiy perevirky.",
-  "sig": "6fd961373debdb817fd06e4216e51efdcf5dd462a9070886e83ea6b092194d12"
+  "sig": "307bb03c0ed479df9bf8081e242e0c2368a38be66f556aa8e55163ccbd9bf252"
 }
