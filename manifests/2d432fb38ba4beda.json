@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "updates": [
     {
       "id": "u-1.0.1-1785491310",
@@ -36,8 +36,17 @@
       "sha256": "ec3393ec02161233da3c704042baf76a38c2b84a3270c9ee25704554a0626f48",
       "notes": "Arkhiv torgiv: pidpys vyrobnyka nashe/ne nashe u kozhnomu ryadku + hlybyna dlya starykh tenderiv (peremozhets i suma peremohy).",
       "date": "2026-08-01"
+    },
+    {
+      "id": "u-1.0.5-1785618067",
+      "type": "global",
+      "version": "1.0.5",
+      "bundle_url": "https://raw.githubusercontent.com/elopav-svg/sensflow-updates/main/bundles/u-1.0.5-1785618067.zip",
+      "sha256": "bf9b80ded9d24ae38d1435a9669bb090277a4179363e03954adeca05a81aaabf",
+      "notes": "Arkhiv torgiv: u tablytsi lyshe nash predmet z pidpysom vyrobnyka; peremozhets i suma peremohy dlya zavershenykh; mezhi vybirky nazvani chesno.",
+      "date": "2026-08-02"
     }
   ],
   "notes": "Базовий канал оновлень відкрито 31.07.2026. Ви на найновішій збірці.",
-  "sig": "2065725791885741c6fc494438101d452123b332cc712259d0ba2fbe2c578a0d"
+  "sig": "f7459a268d1a8a18982950991979d322b65d59d2cf31a760a9024ac07c1e7192"
 }
