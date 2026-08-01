@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "updates": [
     {
       "id": "u-1.0.1-1785491310",
@@ -18,8 +18,17 @@
       "sha256": "35d3f53813e091b22dfdefaf1e903d51846891775fdecb76b75d385aa22db1dd",
       "notes": "Arkhiv torgiv na Prozorro (zvit u xlsx). Vorota vkhodu bilshe ne blokuyut robotu cherez zbiy perevirky.",
       "date": "2026-08-01"
+    },
+    {
+      "id": "u-1.0.3-1785587813",
+      "type": "global",
+      "version": "1.0.3",
+      "bundle_url": "https://raw.githubusercontent.com/elopav-svg/sensflow-updates/main/bundles/u-1.0.3-1785587813.zip",
+      "sha256": "21f78da976e21e2ffac9fa3f85ed09e74ec6faab89e9af1b366df2bdbee1f0f3",
+      "notes": "Orkestrator vykorystovuye VSI dostupni modeli, vklyuchno z naystarshoyu, schob vydaty rezultat. Zhodna zupynka bilshe ne movchyt.",
+      "date": "2026-08-01"
     }
   ],
   "notes": "Базовий канал оновлень відкрито 31.07.2026. Ви на найновішій збірці.",
-  "sig": "85b03aad5d47c1e9317882b47bf17036bd51357d2307c6c39bf2f67c272cd7bd"
+  "sig": "30ff199fdf8c8daa68460131fffb1f7bf1f1742d69024f74097d1e69c83c2ec1"
 }
