@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "updates": [
     {
       "id": "u-1.0.1-1785491310",
@@ -45,8 +45,17 @@
       "sha256": "bf9b80ded9d24ae38d1435a9669bb090277a4179363e03954adeca05a81aaabf",
       "notes": "Arkhiv torgiv: u tablytsi lyshe nash predmet z pidpysom vyrobnyka; peremozhets i suma peremohy dlya zavershenykh; mezhi vybirky nazvani chesno.",
       "date": "2026-08-02"
+    },
+    {
+      "id": "u-1.0.6-1785673997",
+      "type": "global",
+      "version": "1.0.6",
+      "bundle_url": "https://raw.githubusercontent.com/elopav-svg/sensflow-updates/main/bundles/u-1.0.6-1785673997.zip",
+      "sha256": "b6952e01196f2ae61369dd42956e6d6d51a26b252ae146551857752d0e3d180c",
+      "notes": "Arkhiv torgiv: nash tovar shukayemo ne lyshe v nazvi tendera, a y u nazvi lota - tendery, yaki ranishe vypadaly, teper u tablytsi. Dovge imya peremozhtsya bilshe ne rve tablytsyu: kilkist ryadkiv u zviti i v .xlsx zbigayetsya.",
+      "date": "2026-08-02"
     }
   ],
   "notes": "Базовий канал оновлень відкрито 31.07.2026. Ви на найновішій збірці.",
-  "sig": "f7459a268d1a8a18982950991979d322b65d59d2cf31a760a9024ac07c1e7192"
+  "sig": "644ecbc2821b8321829d14028a1a999b8a3c4fd635f668f260e084018eb3d45e"
 }
